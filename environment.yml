@@ -1,0 +1,18 @@
+name: chinese-word-representations
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - h5py
+  - mne
+  - scikit-learn
+  - statsmodels
+  - joblib
+  - pyyaml
+  - pip
+  - pip:
+      - neurora==1.1.6.12

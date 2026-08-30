@@ -1,0 +1,5 @@
+paths:
+  # Relative paths are resolved from the repository root.
+  data_root: data
+  output_root: outputs
+  model_rdm_root: model_rdms
