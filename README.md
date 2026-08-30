@@ -1,4 +1,4 @@
-# Chinese word representations show distinct temporal dynamics across speech modes
+# Shared and distinct temporal representations of Chinese words across imagined, silent, and overt speech
 
 ## Overview
 
