@@ -55,14 +55,6 @@ Run `python run_analysis.py --help` for available named steps. Paths resolve fro
 
 The finalized Visual form (`visual_alexnet_conv2`), Semantic (`semantic_tencent`), and Phonetic features (`phonology_distributed_feature_v3_92d_refined`) RDM bundle is included. The refined model contains onset, glide, nucleus, and coda blocks of 22 dimensions each plus four one-hot lexical-tone dimensions (92 total). See `model_rdms/README.md`.
 
-## Figure reproduction
-
-Figure-reproduction materials will be added separately.
-
 ## Citation
 
-See `CITATION.cff`; complete the author and article metadata before release.
-
-## License
-
-A license has not yet been selected. See `LICENSE_TO_CHOOSE.md`.
+Nie, L., & Lu, Z. (2026). Shared and distinct temporal representations of Chinese words across imagined, silent, and overt speech. bioRxiv. [https://doi.org/10.1038/s42003-026-09685-w  ](https://doi.org/10.64898/2026.08.25.747136).
